@@ -2,6 +2,25 @@
 
 MATLAB/Simulink homework from an undergraduate Robotics course (Sharif University of Technology), covering rigid-body kinematics through motion planning for serial manipulators and mobile robots.
 
+## Gallery
+
+<table>
+<tr>
+<td width="50%"><img src="HW1/code/figure.png" width="100%"/><br/><sub><b>HW1</b> — rigid-body transform problem setup</sub></td>
+<td width="50%"><img src="HW3/figures/fig1.png" width="100%"/><br/><sub><b>HW3</b> — CAD model of the RRP manipulator</sub></td>
+</tr>
+<tr>
+<td width="50%"><img src="HW6/figures/fig2.png" width="100%"/><br/><sub><b>HW6</b> — potential-field path threading between obstacles</sub></td>
+<td width="50%"><img src="HW7/figures/fig3.png" width="100%"/><br/><sub><b>HW7</b> — shortest path found via Dijkstra's algorithm</sub></td>
+</tr>
+</table>
+
+**HW5 simulation clips** (trajectory tracking, two scenarios):
+
+<video src="HW5/model/HW5_Q1.mp4" controls width="420"></video> <video src="HW5/model/HW5_Q2.mp4" controls width="420"></video>
+
+*(if the players above don't render, the clips are at [`HW5/model/HW5_Q1.mp4`](HW5/model/HW5_Q1.mp4) and [`HW5/model/HW5_Q2.mp4`](HW5/model/HW5_Q2.mp4))*
+
 Each `HW#/` folder contains:
 - `assignment.pdf` — the problem statement
 - `report_fa.pdf` — my original written solution and analysis (Persian)

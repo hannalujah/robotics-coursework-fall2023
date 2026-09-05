@@ -17,9 +17,9 @@ MATLAB/Simulink homework from an undergraduate Robotics course (Sharif Universit
 
 **HW5 simulation clips** (trajectory tracking, two scenarios):
 
-<video src="HW5/model/HW5_Q1.mp4" controls width="420"></video> <video src="HW5/model/HW5_Q2.mp4" controls width="420"></video>
+<video src="HW5/model/HW5_Q1.mp4" controls width="420"></video>
 
-*(if the players above don't render, the clips are at [`HW5/model/HW5_Q1.mp4`](HW5/model/HW5_Q1.mp4) and [`HW5/model/HW5_Q2.mp4`](HW5/model/HW5_Q2.mp4))*
+*(if the players above doesn't render, the clip is at [`HW5/model/HW5_Q1.mp4`](HW5/model/HW5_Q1.mp4))*
 
 Each `HW#/` folder contains:
 - `assignment.pdf` — the problem statement

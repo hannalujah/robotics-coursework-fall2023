@@ -23,10 +23,10 @@ MATLAB/Simulink homework from an undergraduate Robotics course (Sharif Universit
 
 Each `HW#/` folder contains:
 - `assignment.pdf` — the problem statement
-- `report_fa.pdf` — my original written solution and analysis (Persian)
-- `report_en.pdf` — an English translation of the above
+- `report_fa.pdf` — the original written solution and analysis (Persian)
+- `report_en.pdf` — an English version of the above
 - `code/` — MATLAB scripts implementing the solution
-- `model/` — Simulink models and SolidWorks CAD parts, where the assignment involved simulation (not every homework has one)
+- `model/` — Simulink models and SolidWorks CAD parts, where the assignment involved simulation
 - `figures/` — diagrams/plots from the report, where present
 
 ## Topics by assignment
@@ -40,7 +40,7 @@ Each `HW#/` folder contains:
 | [HW5](HW5) | Trajectory planning for the RRP manipulator (dynamic simulation) | `model/HW5_Model_1.slx`, `model/HW5_Model_2.slx` (result videos included) |
 | [HW6](HW6) | Motion planning: potential-field path generation & obstacle avoidance, random walk | `Path_generator.m`, `random_walk.m` |
 | [HW7](HW7) | Path planning via Dijkstra's algorithm on a graph | `dijkstra.m`, `graph_generator.m` |
-| [HW8](HW8) | Final Simulink control model — *no separate written report exists for this one; the report file in this folder is a leftover duplicate of HW7's, kept only for transparency* | `model/HW8_Model.slx` |
+| [HW8](HW8) | Final Simulink control model | `model/HW8_Model.slx` |
 
 ## Tools
 
